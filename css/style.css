@@ -1,0 +1,25 @@
+
+
+
+:root{
+    --primary-color: #7C3848;
+    --black-color: #000;
+    --white-color:#fff;
+    --off-white:#EAE6E7;
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+}
+
+
+body{
+     font-family: "Poppins", sans-serif;
+}
